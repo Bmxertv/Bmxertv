@@ -1,4 +1,4 @@
-# Hi ich bin Chris
+# Hi, ich bin Chris
 
 ### Über mich
 
