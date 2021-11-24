@@ -1,10 +1,12 @@
-# Hi ich bin Chris
+# Hi, ich bin Chris
 
 ### Über mich
 
 - 🔴 17 Jahre alt
 - 🟠 Derzeit mache ich eine Ausbildung zum Fachinformatiker Anwendungsentwicklung
 - 🟡 Ich bin bei der Freiwilligen Feuerwehr
+
+### Sprachen
 
 <code>
  <img height="40" src="./image/java.png" alt="Java Language">
