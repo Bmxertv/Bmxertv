@@ -10,7 +10,11 @@
  <img height="40" src="./image/java.png" alt="Java Language">
 </code>
 
-<table style="margin: 3em auto">
+<br>
+<br>
+<br>
+
+<table>
     <tr>
         <td>
             <a href="https://github.com/Bmxertv">
