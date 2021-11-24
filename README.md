@@ -6,9 +6,11 @@
 - 🟠 Derzeit mache ich eine Ausbildung zum Fachinformatiker Anwendungsentwicklung
 - 🟡 Ich bin bei der Freiwilligen Feuerwehr
 
-[Java Language](/image/java.png)
+<code>
+ <img height="40" src="./image/java.png" alt="Java Language">
+</code>
 
-<table>
+<table style="margin: 0 auto">
     <tr>
         <td>
             <a href="https://github.com/Bmxertv">
