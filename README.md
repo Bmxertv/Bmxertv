@@ -2,7 +2,7 @@
 
 ### Über mich
 
-- 🔴 17 Jahre alt
+- 🔴 18 Jahre alt
 - 🟠 Derzeit mache ich eine Ausbildung zum Fachinformatiker Anwendungsentwicklung
 - 🟡 Ich bin bei der Freiwilligen Feuerwehr
 
