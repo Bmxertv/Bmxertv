@@ -12,3 +12,19 @@ winget install -e --disable-interactivity --id gerardog.gsudo;winget install -e 
 
 # Update all Programms
 winget update --all --disable-interactivity
+
+# Install Node
+nvm install lts
+nvm use lts
+
+# Install pnpm
+corepack enable
+corepack prepare --activate pnpm@latest
+
+# Setup global Store for pnpm
+pnpm setup
+
+# Setup global git config
+git config --global user.email "chrissi.klausschulz@gmail.com"
+git config --global user.name "Christopher Schulz"
+git config --global init.defaultBranch main
