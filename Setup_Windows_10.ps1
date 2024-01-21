@@ -13,6 +13,9 @@ winget install -e --disable-interactivity --id gerardog.gsudo;winget install -e 
 # Update all Programms
 winget update --all --disable-interactivity
 
+# Install OhMyPosh
+winget install JanDeDobbeleer.OhMyPosh -s winget
+
 # Install Node
 nvm install lts
 nvm use lts
